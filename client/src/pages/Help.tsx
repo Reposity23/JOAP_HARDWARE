@@ -1,0 +1,1 @@
+export default function Help(){return <div className='card'><h2 className='font-semibold'>Help</h2><ul className='list-disc pl-5 text-sm'><li>Create items in Inventory</li><li>Create order in Orders</li><li>Log payment in Billing</li><li>Check audit logs by ADMIN</li></ul></div>}
